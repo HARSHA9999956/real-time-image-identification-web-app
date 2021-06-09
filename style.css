@@ -1,0 +1,36 @@
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color:black;
+    box-shadow: 5px 5px 5px gray;
+}
+.result_para_tag{
+    border: 5px;
+    font-size: 20px;
+    box-shadow: 5px 10px 19px grey;
+}
+
+.copy_right_footer{
+    background: grey;
+    color: white;
+    line-height: 2;
+    width: 100%;
+    text-align: center;
+    margin-top: 350px;
+    font-size: 20px;
+}
+canvas{
+    border: 6px solid black;
+    margin-top: 160px;
+    box-shadow: 5px 8px 10px blue;
+}
